@@ -6,7 +6,10 @@ Contact: https://iris7.com || https://rzfeeser.com
 This solution is intentionally kept simple for the purposes of education and testing scenarios.
 
 
-
+## Overview
+Hey gang! Professor Feeser here. This repository is used to demo a webhook between GitHub and AAP via a video on my [YouTube Channel @CodeWithFeeser](https://www.youtube.com/@CodeWithFeeser). More broadly, it contains a simple playbook that debugs two simple messages to stdout:
+  - "Github webhook from rzfeeser/aapwebhook! Instant real-time updates are GO!"
+  - "Following Professor Feeser on Youtube via youtube.com/@CodeWithFeeser"
 
 
 <!-- FIX ME
