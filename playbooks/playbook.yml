@@ -5,4 +5,4 @@
   
   tasks:
   - ansible.builtin.debug:
-      msg: "Hello Webhook World! Instant real-time updates on the way!!"
+      msg: "Github webhook from rzfeeser/aapwebhook! Instant real-time updates are GO!"
