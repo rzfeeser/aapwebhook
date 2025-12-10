@@ -1,8 +1,8 @@
 ---
-- name: just an example  
-  connection: local
+- name: A simple task we can use to test webhooks in github
+  connection: ansible.builtin.local
   hosts: localhost
   
   tasks:
-  - debug:
-      msg: "hello world! Instant updates on the way!! for RZFeeser and Siva"
+  - ansible.builtin.debug:
+      msg: "Hello Webhook World! Instant real-time updates on the way!!"
