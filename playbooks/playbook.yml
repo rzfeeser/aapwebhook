@@ -8,4 +8,4 @@
       msg: "Github webhook from rzfeeser/aapwebhook! Instant real-time updates are GO!"
 
   - ansible.builtin.debug:
-      msg: "Following Professor Feeser on Youtube via youtube.com/@CodeWithFeeser"
+      msg: "Follow Professor Feeser on Youtube via youtube.com/@CodeWithFeeser"
