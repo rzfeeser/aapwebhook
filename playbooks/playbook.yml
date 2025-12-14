@@ -5,7 +5,7 @@
   
   tasks:
   - ansible.builtin.debug:
-      msg: "Github webhook from rzfeeser/aapwebhook! Instant real-time updates are GO!"
+      msg: "Github webhook from rzfeeser/aap-webhook! Instant real-time updates are GO!"
 
   - ansible.builtin.debug:
       msg: "Follow Professor Feeser on Youtube via youtube.com/@CodeWithFeeser"
